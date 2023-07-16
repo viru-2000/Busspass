@@ -42,19 +42,5 @@ password: Test@123
 
 
 
-# For more projects, check out our channel ☺️
-
-https://www.youtube.com/channel/UC4_6-VSWBw_QHMyjrDDEvVQ
 
 
-# 🚀Join our Instagram page for:
-✅Free projects ideas
-✅Complete source code download
-✅Coding tips & tricks
-✅Other tech updates.
-
-
-# Thankyou for your support😍❤ Stay tuned and Happy learning! 🤓📚
-
-### License
-Bus Pass Management System is developed under the MIT License
